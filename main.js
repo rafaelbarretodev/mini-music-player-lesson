@@ -55,9 +55,17 @@ new Vue({
                   artist: "Kendrick Lamar",
                   cover: "https://github.com/rafaelbarretodev/music-songs/raw/main/mp3/image6.jpeg",
                   source: "https://github.com/rafaelbarretodev/music-songs/raw/main/mp3/CD%201/1-08%20.mp3",
-                  url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
+                  url: "https://www.youtube.com/watch?v=C_s9JJnqQqM",
                   favorited: false
-               }
+               },
+               {
+                name: "U Are My High",
+                artist: "DJ SNAKE",
+                cover: "https://github.com/rafaelbarretodev/music-songs/raw/main/mp3/DJ%20SNAKE.jpeg",
+                source: "https://github.com/rafaelbarretodev/music-songs/raw/main/mp3/snake.mp3",
+                url: "https://www.youtube.com/watch?v=dbJ55eUlw3A",
+                favorited: false
+             }
           ],
           currentTrack: null,
           currentTrackIndex: 0,
